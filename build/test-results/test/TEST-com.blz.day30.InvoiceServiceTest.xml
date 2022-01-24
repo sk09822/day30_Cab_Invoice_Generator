@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.blz.day30.InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-24T12:40:23" hostname="DESKTOP-DN56027" time="0.032">
+<testsuite name="com.blz.day30.InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-24T12:48:21" hostname="DESKTOP-DN56027" time="0.035">
   <properties/>
-  <testcase name="givenMultipleRides_ShouldReturnInvoiceSummary()" classname="com.blz.day30.InvoiceServiceTest" time="0.032"/>
+  <testcase name="givenUserId_shouldReturnInvoiceSummary()" classname="com.blz.day30.InvoiceServiceTest" time="0.035"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
