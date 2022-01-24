@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.blz.day30.InvoiceServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-24T12:14:14" hostname="DESKTOP-DN56027" time="0.05">
+<testsuite name="com.blz.day30.InvoiceServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-24T12:19:27" hostname="DESKTOP-DN56027" time="0.038">
   <properties/>
-  <testcase name="givenLessDistanceAndTime_ShouldReturnMinFare()" classname="com.blz.day30.InvoiceServiceTest" time="0.038"/>
-  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare()" classname="com.blz.day30.InvoiceServiceTest" time="0.007"/>
+  <testcase name="givenLessDistanceAndTime_ShouldReturnMinFare()" classname="com.blz.day30.InvoiceServiceTest" time="0.031"/>
+  <testcase name="givenMultipleRides_ShouldReturnTotalFare()" classname="com.blz.day30.InvoiceServiceTest" time="0.002"/>
+  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare()" classname="com.blz.day30.InvoiceServiceTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
